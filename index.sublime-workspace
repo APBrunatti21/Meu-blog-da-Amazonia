@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n\t\"auto_complete\":\n\t{\n\t\t\"selected_items\":\n\t\t[\n\t\t]\n\t},\n\t\"buffers\":\n\t[\n\t\t{\n\t\t\t\"file\": \"index.html\",\n\t\t\t\"settings\":\n\t\t\t{\n\t\t\t\t\"buffer_size\": 636,\n\t\t\t\t\"encoding\": \"UTF-8\",\n\t\t\t\t\"line_ending\": \"Windows\"\n\t\t\t}\n\t\t}\n\t],\n\t\"build_system\": \"\",\n\t\"build_system_choices\":\n\t[\n\t],\n\t\"build_varint\": \"\",\n\t\"command_palette\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"console\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"history\":\n\t\t[\n\t\t]\n\t},\n\t\"distraction_free\":\n\t{\n\t\t\"menu_visible\": true,\n\t\t\"show_minimap\": false,\n\t\t\"show_open_files\": false,\n\t\t\"show_tabs\": false,\n\t\t\"side_bar_visible\": false,\n\t\t\"status_bar_visible\": false\n\t},\n\t\"file_history\":\n\t[\n\t\t\"/C/Users/gabri/OneDrive - Etec Centro Paula Souza/Desktop/site/site certo.html\"\n\t],\n\t\"find\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"find_in_files\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"where_history\":\n\t\t[\n\t\t]\n\t},\n\t\"find_state\":\n\t{\n\t\t\"case_sensitive\": false,\n\t\t\"find_history\":\n\t\t[\n\t\t],\n\t\t\"highlight\": true,\n\t\t\"in_selection\": false,\n\t\t\"preserve_case\": false,\n\t\t\"regex\": false,\n\t\t\"replace_history\":\n\t\t[\n\t\t],\n\t\t\"reverse\": false,\n\t\t\"show_context\": true,\n\t\t\"use_buffer2\": true,\n\t\t\"whole_word\": false,\n\t\t\"wrap\": true\n\t},\n\t\"groups\":\n\t[\n\t\t{\n\t\t\t\"selected\": 0,\n\t\t\t\"sheets\":\n\t\t\t[\n\t\t\t\t{\n\t\t\t\t\t\"buffer\": 0,\n\t\t\t\t\t\"file\": \"index.html\",\n\t\t\t\t\t\"semi_transient\": false,\n\t\t\t\t\t\"settings\":\n\t\t\t\t\t{\n\t\t\t\t\t\t\"buffer_size\": 636,\n\t\t\t\t\t\t\"regions\":\n\t\t\t\t\t\t{\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"selection\":\n\t\t\t\t\t\t[\n\t\t\t\t\t\t\t[\n\t\t\t\t\t\t\t\t0,\n\t\t\t\t\t\t\t\t0\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t],\n\t\t\t\t\t\t\"settings\":\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\"syntax\": \"Packages/HTML/HTML.sublime-syntax\"\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"translation.x\": 0.0,\n\t\t\t\t\t\t\"translation.y\": 0.0,\n\t\t\t\t\t\t\"zoom_level\": 1.0\n\t\t\t\t\t},\n\t\t\t\t\t\"stack_index\": 0,\n\t\t\t\t\t\"type\": \"text\"\n\t\t\t\t}\n\t\t\t]\n\t\t}\n\t],\n\t\"incremental_find\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"input\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"layout\":\n\t{\n\t\t\"cells\":\n\t\t[\n\t\t\t[\n\t\t\t\t0,\n\t\t\t\t0,\n\t\t\t\t1,\n\t\t\t\t1\n\t\t\t]\n\t\t],\n\t\t\"cols\":\n\t\t[\n\t\t\t0.0,\n\t\t\t1.0\n\t\t],\n\t\t\"rows\":\n\t\t[\n\t\t\t0.0,\n\t\t\t1.0\n\t\t]\n\t},\n\t\"menu_visible\": true,\n\t\"output.find_results\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"pinned_build_system\": \"\",\n\t\"project\": \"index.sublime-project\",\n\t\"replace\":\n\t{\n\t\t\"height\": 0.0\n\t},\n\t\"save_all_on_build\": true,\n\t\"select_file\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"select_project\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"select_symbol\":\n\t{\n\t\t\"height\": 0.0,\n\t\t\"last_filter\": \"\",\n\t\t\"selected_items\":\n\t\t[\n\t\t],\n\t\t\"width\": 0.0\n\t},\n\t\"selected_group\": 0,\n\t\"settings\":\n\t{\n\t},\n\t\"show_minimap\": true,\n\t\"show_open_files\": false,\n\t\"show_tabs\": true,\n\t\"side_bar_visible\": true,\n\t\"side_bar_width\": 150.0,\n\t\"status_bar_visible\": true,\n\t\"template_settings\":\n\t{\n\t}\n}\n",
+			"file": "index.sublime-workspace",
+			"file_size": 2638,
+			"file_write_time": 132741159779488518,
+			"settings":
+			{
+				"buffer_size": 2638,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gabri/OneDrive - Etec Centro Paula Souza/Desktop/basehtmlecss/index.html",
+		"/C/Users/gabri/OneDrive - Etec Centro Paula Souza/Desktop/site/site certo.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3122.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
